@@ -1,4 +1,4 @@
-# SST-2-sentiment-analysis
+# Sentiment Analysis
 
 Use BiLSTM_attention, BERT, RoBERTa, XLNet and ALBERT models to classify the SST-2 data set based on pytorch.
 
